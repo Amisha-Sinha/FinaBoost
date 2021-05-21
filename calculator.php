@@ -48,7 +48,7 @@
 </nav>
 <div class="container my-4">
 <h3 style="text-align: center; font-size: 120%; font-weight: bold;"> Quantifying Compounding Interest</h3>
-<p> Calculate the amount of money you'd receive after a given time frame and a fixed interest rate with our calculator and witness the power of compounding interest in an quantifiable way.</p>
+<p> Calculate the amount of money you'd receive after a given time frame and a fixed interest rate with our calculator and witness the power of compounding interest in a quantifiable way.</p>
 <form action= "result.php" method="POST">
   <div class="mb-3">
   <label for="formGroupExampleInput" class="form-label"> Principal Amount </label>
