@@ -26,7 +26,7 @@ $amount = $p * pow((1 + $r/100),$t);
   <body>
    <div class="container">
 <div class="alert alert-info " role="alert">
-  <h1 style="text-align: center;">Your total amount in <?php echo "" .$t; ?> years would be: <?php echo "".$amount ; ?> </h1>
+  <h1 style="text-align: center;">Your total amount in <?php echo $t; ?> years would be: <?php echo round($amount, 3) ; ?> </h1>
 </div>
 </div>
 	 
